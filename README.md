@@ -1,10 +1,36 @@
 # APACGA EARTH
 
-APACGA EARTH is an open initiative to build interoperable governance patterns, digital identity references, a financial infrastructure sandbox, and an AI/Data/Digital Twin platform for the Asia–Pacific region.
+APACGA EARTH is an open initiative to build interoperable governance patterns, digital identity references, a financial infrastructure sandbox, and an AI/Data/Digital Twin platform for the Asia–Pacific region and beyond.
 
 ## Project Overview
 
-This repository holds the canonical project materials for APACGA EARTH: architecture diagrams, governance and security guidance, knowledge volumes, legal/regulatory disclaimers, and the development roadmap.
+This repository holds the canonical project materials for APACGA EARTH: architecture diagrams, governance and security guidance, knowledge volumes, legal/regulatory disclaimers, and the development roadmap. All work is collaborative, community-driven, and open to contributors worldwide.
+
+## Collaborators & Teams
+
+### Core Leadership
+- **Project Steward**: Contact via [GitHub Discussions](https://github.com/amatcire-org/apacga-earth/discussions) or create an issue
+- **Governance Lead**: Ensures compliance and stakeholder alignment
+- **Technical Lead**: Oversees architecture, security, and implementation standards
+
+### Working Groups
+
+| Team | Focus | Lead | Contact |
+|------|-------|------|---------|
+| **Architecture & Infrastructure** | System design, APIs, data flows, security controls | [Assign role] | [Link] |
+| **Governance & Compliance** | Decision-making processes, regulatory guidance, audit logging | [Assign role] | [Link] |
+| **Digital Identity** | Verifiable credentials, DIDs, trust frameworks, key management | [Assign role] | [Link] |
+| **Financial Sandbox** | Payment rails, token models, settlement, compliance testing | [Assign role] | [Link] |
+| **AI, Data & Digital Twin** | Model lifecycle, responsible AI, data governance, observability | [Assign role] | [Link] |
+| **Knowledge & Documentation** | Technical references, whitepapers, knowledge volumes curation | [Assign role] | [Link] |
+
+### How to Get Involved
+- **Join Discussions**: Participate in [GitHub Discussions](https://github.com/amatcire-org/apacga-earth/discussions) for ideas and questions
+- **Contribute Code**: See [CONTRIBUTING.md](CONTRIBUTING.md) for process and conventions
+- **Report Issues**: Open an [issue](https://github.com/amatcire-org/apacga-earth/issues) for bugs, improvements, or feature requests
+- **Propose Features**: Start a discussion before opening a PR for major changes
+
+---
 
 ## APACGA EARTH Architecture
 
@@ -50,18 +76,21 @@ This repository holds the canonical project materials for APACGA EARTH: architec
 
 ## Contribution Guidelines
 
-See CONTRIBUTING.md for contribution process, code of conduct, and commit/PR conventions.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution process, code of conduct, and commit/PR conventions.
 
 ## Legal / Regulatory Disclaimer
 
-This repository contains reference materials only. Deployments and production systems must follow applicable local laws and regulatory guidance. Contributors and consumers use the content at their own risk.
+This repository contains reference materials only. Deployments and production systems must follow applicable local laws and regulatory guidance. Contributors and consumers use the content at their own risk and responsibility.
 
 ---
 
-Repository: https://github.com/amatcire-org/apacga-earth
+**Repository**: https://github.com/amatcire-org/apacga-earth
 
+**Repository Structure**:
+```
 apacga-earth/
 ├── README.md
+├── CONTRIBUTING.md
 ├── docs/
 │   ├── architecture/
 │   ├── governance/
@@ -81,3 +110,4 @@ apacga-earth/
 ├── .github/
 │   └── workflows/
 └── LICENSE
+```
