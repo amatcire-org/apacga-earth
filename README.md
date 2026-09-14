@@ -59,3 +59,25 @@ This repository contains reference materials only. Deployments and production sy
 ---
 
 Repository: https://github.com/amatcire-org/apacga-earth
+
+apacga-earth/
+├── README.md
+├── docs/
+│   ├── architecture/
+│   ├── governance/
+│   ├── security/
+│   ├── identity/
+│   ├── finance-sandbox/
+│   ├── ai-data/
+│   └── digital-twin/
+├── knowledge/
+│   ├── volumes-0001-0100/
+│   ├── volumes-0101-0500/
+│   ├── volumes-0501-1000/
+│   ├── volumes-1001-1500/
+│   └── volumes-1501-2000/
+├── src/
+├── tests/
+├── .github/
+│   └── workflows/
+└── LICENSE
